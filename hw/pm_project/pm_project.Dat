@@ -1,0 +1,14 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~ed_project.PrjPcb|ReportField=ProjectFullPath~C:\!Work\PCB\ESP32_C3\esp32-c3-mini-1_reference_design\altium\ed_project\ed_project.PrjPcb|ReportField=Title~Bill of Materials For Project [ed_project.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~22|ReportField=ReportTime~1:58:47 AM|ReportField=ReportDate~5/14/2025|ReportField=ReportDateTime~5/14/2025 1:58:47 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~|ReportField=Organization~|ReportField=ProjectName~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~ed_project.PrjPcb|ReportField=DataSourceFullPath~C:\!Work\PCB\ESP32_C3\esp32-c3-mini-1_reference_design\altium\ed_project\ed_project.PrjPcb
+Cap Pol2|Polarized Capacitor (Axial)|C1, C4, C6|POLAR0.8|Cap Pol2|3
+Cap|Capacitor|C2, C3, C5|RAD-0.3|Cap|3
+1N4148|Schottky Diode|D1|SMB|D Schottky|1
+VERDE|Typical INFRARED GaAs LED|D10|LED-0|LED0|1
+GALBEN|Typical INFRARED GaAs LED|D11|LED-0|LED0|1
+ROSU|Typical INFRARED GaAs LED|D12|LED-0|LED0|1
+4311|Graphic LCD Display Module Red, Green, Blue (RGB) TFT - Color, IPS (In-Plane Switching) SPI 2 (50.80mm) 320 x 240|LCD_1|MODULE_4311|4311|1
+Motor|Motor, General Kind|M1|RB5-10.5|Motor|1
+2N3904|NPN General Purpose Amplifier|Q1|TO-92A|2N3904|1
+Res1|Resistor|R1, R2, R3, R4, R5, R6|AXIAL-0.3|Res1|6
+ESP32-C3-DEVKITM-1|WiFi Development Tools (802.11) (ENGINEERING SAMPLE ONLY) ESP32-C3 General-Purpose Dev Board, Embeds ESP32-C3-MINI-1, 4 MB Flash, w/ Pin Header|U1|XCVR_ESP32-C3-DEVKITM-1|ESP32-C3-DEVKITM-1|1
+BMP180|Pressure Sensor 4.35PSI ~ 15.95PSI (30kPa ~ 110kPa) Absolute - 16 ~ 19 b 7-VLGA|U2|BMP180|BMP180|1
+Sunrise 006-0-0002|Carbon Dioxide (CO2) Sensor|U3|XDCR_006-0-0002|006-0-0002|1

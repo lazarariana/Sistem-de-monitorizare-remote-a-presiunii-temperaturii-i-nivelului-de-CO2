@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 2:02:55 AM On 5/14/2025
+
+Output: Bill of Materials
+Type  : BOM
+From  : Schematic Document [esp32_c3_demo.SchDoc]
+   Generated File[Bill of Materials-esp32_c3_demo.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:03:01 AM On 5/14/2025
